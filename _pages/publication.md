@@ -10,12 +10,13 @@ redirect_from:
 **Journal Articles**
 
 **First Author:**
+<p align="justify">
 * **R. Yan** and Y. Xu, “Multi-objective and multi-agent deep reinforcement learning for real-time decentralized volt/var control of distribution networks considering pv inverter lifetime,” IEEE Transactions on Power Systems, 2024.
 * **R. Yan**, Q. Xing, and Y. Xu, “Multi agent safe graph reinforcement learning for pv inverters based real-time decentralized volt/var control in zoned distribution networks,” IEEE Transactions on Smart Grid, 2023.
 * **R. Yan** and Y. Xu, “A data-driven method for microgrid bidding optimization in electricity market,” IET Energy Conversion and Economics- Wilely Online Library, 2023.
 * **R. Yan**, Y. Wang, J. Dai, Y. Xu, and A. Q. Liu, “Quantum-key-distribution-based microgrid control for cybersecurity enhancement,” IEEE Transactions on Industry Applications, vol. 58, no. 3, pp. 3076–3086, 2022.
 * **R. Yan**, Y. Wang, Y. Xu,and J. Dai, “A multiagent quantum deep reinforcement learning method for distributed frequency control of islanded microgrids,” IEEE Transactions on Control of Network Systems, vol. 9, no. 4, pp. 1622–1632, 2022.
-
+</p>
 **Co-Author:**
 * C. Ren, H. Yu, **R. Yan**, et al., “Towards quantum federated learning,” arXiv preprint arXiv:2306.09912, 2023.
 * C. Ren, **R. Yan**, M. Xu, et al., “Qfdsa: A quantum-secured federated learning system for smart grid dynamic security assessment,” IEEE Internet of Things Journal, 2023.
