@@ -3,7 +3,7 @@ permalink: /publication/
 title: "Publications"
 author_profile: true
 redirect_from: 
-  - /publication/
+  - /md/
   - /publication.html
 ---
 
