@@ -11,7 +11,7 @@ redirect_from:
 </h3>
 
 ![VVC](./VVC.png)
-Traditional VVC algorithms are generally model-based and require accurate system models and parameters, which can be difficult and costly to obtain and maintain. Furthermore, the classic optimization algorithms may suffer from modeling restrictions, slow computation speed, or convergency difficulty. As an alternative, deep reinforcement learning (DRL) based data-driven methods have shown stronger capability in real-time control.
+Traditional Voltage/Var Control (VVC) algorithms are generally model-based and require accurate system models and parameters, which can be difficult and costly to obtain and maintain. Furthermore, the classic optimization algorithms may suffer from modeling restrictions, slow computation speed, or convergency difficulty. As an alternative, deep reinforcement learning (DRL) based data-driven methods have shown stronger capability in real-time control.
 
 **Selected Publications:**
 * **R. Yan** and Y. Xu, “Multi-objective and multi-agent deep reinforcement learning for real-time decentralized volt/var
