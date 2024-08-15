@@ -9,9 +9,11 @@ redirect_from:
 <h3 style="background-color:#f0f8ff; padding:20px; border-radius:15px; text-align:center;">
   Data-Driven Voltage/Var Control in Distribution Network
 </h3>
-![VVC](./VVC.png)
 
+![VVC](./VVC.png)
+<p align="justify">
 Traditional Voltage/Var Control (VVC) algorithms are generally model-based and require accurate system models and parameters, which can be difficult and costly to obtain and maintain. Furthermore, the classic optimization algorithms may suffer from modeling restrictions, slow computation speed, or convergency difficulty. As an alternative, deep reinforcement learning (DRL) based data-driven methods have shown stronger capability in real-time control.
+</p>
 
 **Selected Publications:**
 * **R. Yan** and Y. Xu, “Multi-objective and multi-agent deep reinforcement learning for real-time decentralized volt/var
@@ -22,6 +24,7 @@ decentralized volt/var control in zoned distribution networks,” *IEEE Transact
 <h3 style="background-color:#f0f8ff; padding:20px; border-radius:15px; text-align:center;">
   Energy Trading and Electricity Market
 </h3>
+
 ![Market](./Market.png)
 
 **Selected Publications:**
