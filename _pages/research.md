@@ -39,14 +39,13 @@ Conversion and Economics - Wilely Online Library*, 2023.
 
 **Selected Publications:**
 * **R. Yan**, Y. Xu, and R. Zhang, “A graph attention network based reinforcement learning method for optimal distributed
-frequency control of an islanded ac microgrid,” in 2023 IEEE Power & Energy Society General Meeting (PESGM), 2023
+frequency control of an islanded ac microgrid,” in *2023 IEEE Power & Energy Society General Meeting (PESGM)*, 2023
 * **R. Yan**, Y. Wang, Y. Xu, and J. Dai, “A multiagent quantum deep reinforcement learning method for distributed
-frequency control of islanded microgrids,” IEEE Transactions on Control of Network Systems, vol. 9, no. 4, pp. 1622–1632,
-2022.
+frequency control of islanded microgrids,” *IEEE Transactions on Control of Network Systems*, vol. 9, no. 4, pp. 1622–1632,2022.
 * **R. Yan**, Y. Wang, J. Dai, Y. Xu, and A. Q. Liu, “Quantum-key-distribution-based microgrid control for cybersecurity
-enhancement,” IEEE Transactions on Industry Applications, vol. 58, no. 3, pp. 3076–3086, 2022.  doi:
+enhancement,” *IEEE Transactions on Industry Applications*, vol. 58, no. 3, pp. 3076–3086, 2022. doi:
 10.1109/TIA.2022.3159314.
 * **R. Yan**, Y. Wang, J. Dai, Y. Xu, and A. Q. Liu, “Quantum-key-distribution-based microgrid control for cybersecurity
-enhancement (conference),” in 2021 IEEE Industry Applications Society Annual Meeting (IAS), 2022.
+enhancement (conference),” in *2021 IEEE Industry Applications Society Annual Meeting (IAS)*, 2022.
 
 
