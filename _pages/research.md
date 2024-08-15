@@ -32,11 +32,9 @@ decentralized volt/var control in zoned distribution networks,” *IEEE Transact
 Conversion and Economics - Wilely Online Library*, 2023.
 
 <h3 style="background-color:#f0f8ff; padding:20px; border-radius:15px; text-align:center;">
-  Dynamic System Stability and Security Assessment
-</h3>
-
-<h3 style="background-color:#f0f8ff; padding:20px; border-radius:15px; text-align:center;">
   Microgrid Operation & Control
 </h3>
+
+
 
 
