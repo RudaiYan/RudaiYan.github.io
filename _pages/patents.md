@@ -17,7 +17,7 @@ Singapore Technology Disclosure
 International Competition Awards
 </h3>
 
-* Microgrid Security Constrained EnergyManagement System
+* 2023 - Microgrid Security Constrained EnergyManagement System
   * Silver Award
   * 8th International College Students "Internet+" Innovation and Entrepreneurship Competition.
 
