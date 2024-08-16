@@ -11,7 +11,7 @@ redirect_from:
 Singapore Technology Disclosure
 </h3>
 
-* 2024 - A HolisticMethod And Software Tool For Electric Vehicle Charging Demand Simulation And Scenarios Modelling
+* 2024 - A Holistic Method And Software Tool For Electric Vehicle Charging Demand Simulation And Scenarios Modelling
 
 <h3 style="background-color:#f0f8ff; padding:20px; border-radius:15px; text-align:center;">
 International Competition Awards
