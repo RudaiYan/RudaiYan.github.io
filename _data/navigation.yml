@@ -15,7 +15,7 @@ main:
     url: /patents/    
     
   - title: "Projects"
-    url: /portfolio/
+    url: /project/
         
   - title: "Teaching"
     url: /year-archive/
