@@ -1,6 +1,6 @@
 ---
 permalink: /patents/
-title: "patents"
+title: "Awards & Patents"
 author_profile: true
 redirect_from: 
   - /md/
@@ -12,6 +12,14 @@ Singapore Technology Disclosure
 </h3>
 
 * 2024 - A HolisticMethod And Software Tool For Electric Vehicle Charging Demand Simulation And Scenarios Modelling
+
+<h3 style="background-color:#f0f8ff; padding:20px; border-radius:15px; text-align:center;">
+International Competition Awards
+</h3>
+
+* Microgrid Security Constrained EnergyManagement System
+  * Silver Award
+  * 8th International College Students "Internet+" Innovation and Entrepreneurship Competition.
 
 <h3 style="background-color:#f0f8ff; padding:20px; border-radius:15px; text-align:center;">
 计算机软件著作权 （中国国家版权局）
