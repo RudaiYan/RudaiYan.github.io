@@ -17,7 +17,7 @@ In Progress
   * Worked as the Research Fellow to design and develop Singapore’s First Digital Twin for National Power Grid: [https://www.spgroup.com.sg/about-us/media-resources/news-and-media-releases/Digital-Twin-for-National-Power-Grid](https://www.spgroup.com.sg/about-us/media-resources/news-and-media-releases/Digital-Twin-for-National-Power-Grid)
 
 ![sp](./sp.jpg)
-Image copyright owned by SP Group-NTU Joint Laboratory
+Image copyright owned by [SP Group-NTU Joint Laboratory](https://www.ntu.edu.sg/spgroup-ntu)
 
 <h3 style="background-color:#f0f8ff; padding:20px; border-radius:15px; text-align:center;">
 Closed
