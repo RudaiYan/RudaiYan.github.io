@@ -31,3 +31,12 @@ To de decided ...
 
 * **Graphical User Interface（GUI）Development for Power Equipment Health Monitoring Software**
   * Student: Jia Qitong
+
+<h3 style="background-color:#f0f8ff; padding:20px; border-radius:15px; text-align:center;">
+Teaching Assistant
+</h3>
+
+### 2021-2022
+* EE2004: Digital Electronics
+* EE4717: Web Application Design
+* IM2073: Game Programming
