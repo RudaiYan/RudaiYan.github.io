@@ -11,9 +11,10 @@ In Progress
 </h3>
 
 ### 2021 - Present
-![lab](./spnl.png)
+
 * **Risk based Power System Asset Investment and Planning Optimization, Singapore**
   * Started from 2021
+   ![lab](./spnl.png)
   * Worked as the Research Fellow to design and develop Singapore’s First Digital Twin for National Power Grid: [https://www.spgroup.com.sg/about-us/media-resources/news-and-media-releases/Digital-Twin-for-National-Power-Grid](https://www.spgroup.com.sg/about-us/media-resources/news-and-media-releases/Digital-Twin-for-National-Power-Grid)
 
 ![sp](./sp.jpg)
