@@ -26,6 +26,7 @@ decentralized volt/var control in zoned distribution networks,” *IEEE Transact
 </h3>
 
 ![Market](./Market.png)
+Source: [EMA|Electricity Market](https://www.ema.gov.sg/our-energy-story/energy-market-landscape/electricity)
 
 **Selected Publications:**
 * **R. Yan** and Y. Xu, “A data-driven method for microgrid bidding optimization in electricity market,” *IET Energy
