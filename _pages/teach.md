@@ -7,6 +7,27 @@ redirect_from:
   - /teach.html
 ---
 
-<h1 style="background-color:#f0f8ff; padding:20px; border-radius:15px; text-align:center;">
+<h3 style="background-color:#f0f8ff; padding:20px; border-radius:15px; text-align:center;">
 Supervision of Master of Science Thesis
-</h1>
+</h3>
+
+### 2024-2025
+
+To de decided ...
+
+### 2023-2024
+
+* **Smart PV inverter for distribution grid voltage regulation support**
+  * Student: Ye Zongxin
+* **Reinforcement learning based operational control of active distribution networks**
+  * Student: Lou Yutao
+
+### 2022-2023
+
+* **PV Inverters Based Decentralized Voltage/Var Control of Power Distribution Network: A Multi-Agent Twin Delayed DDPG Approach**
+  * Student: Guo Chenxi
+
+### 2021-2022
+
+* **Graphical User Interface（GUI）Development for Power Equipment Health Monitoring Software**
+  * Student: Jia Qitong
