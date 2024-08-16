@@ -24,13 +24,13 @@ Closed
 </h3>
 
 ### 2023
-<img src="./nrf.jpeg" alt="NRF" height="100px">
+<img src="/_pages/nrf.jpeg" alt="NRF" height="100px">
 
 * **Multiple Micro-Grid Operation Framework, Singapore**
   * Designed a deep reinforcement learning based microgrid bidding optimization method in the context of real electricity market.
 
 ### 2021
-<img src="./jtc.png" alt="JTC" height="100px">
+<img src="/_pages/jtc.png" alt="JTC" height="100px">
 
 * **Study of Reliability of Power Systems for Underground Cavern Facilities, Singapore**
   * Worked as the Researcher to design and develop the Real-Time Remote Condition Monitoring System for Underground Substation.
