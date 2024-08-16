@@ -6,9 +6,9 @@ redirect_from:
   - /md/
   - /project.html
 ---
-<h1 style="background-color:#f0f8ff; padding:20px; border-radius:15px; text-align:center;">
+<h3 style="background-color:#f0f8ff; padding:20px; border-radius:15px; text-align:center;">
 In Progress
-</h1>
+</h3>
 
 * **Risk based Power System Asset Investment and Planning Optimization, Singapore**
   * Started from 2021
@@ -17,9 +17,9 @@ In Progress
 ![sp](./sp.jpg)
 Image copyright owned by SP Group-NTU Joint Laboratory
 
-<h1 style="background-color:#f0f8ff; padding:20px; border-radius:15px; text-align:center;">
+<h3 style="background-color:#f0f8ff; padding:20px; border-radius:15px; text-align:center;">
 Closed
-</h1>
+</h3>
 
 ### 2023
 * **Multiple Micro-Grid Operation Framework, Singapore**
