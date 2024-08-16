@@ -1,11 +1,12 @@
 ---
 permalink: /patents/
-title: "Awards & Patents"
+title: "patents"
 author_profile: true
 redirect_from: 
   - /md/
   - /patents.html
 ---
+
 <h3 style="background-color:#f0f8ff; padding:20px; border-radius:15px; text-align:center;">
 Singapore Technology Disclosure
 </h3>
