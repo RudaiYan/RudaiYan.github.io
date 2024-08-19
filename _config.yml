@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yan Rudai"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Yan Rudai"
 description              : &description "personal description"
