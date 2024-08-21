@@ -18,6 +18,7 @@ redirect_from:
 * **R. Yan**, Y. Wang, Y. Xu,and J. Dai, “A multiagent quantum deep reinforcement learning method for distributed frequency control of islanded microgrids,” *IEEE Transactions on Control of Network Systems*, vol. 9, no. 4, pp. 1622–1632, 2022.
 
 **Co-Author:**
+* J. Liu, J. Liu, **R. Yan**, and T. Ding, “Deep lyapunov learning: Embedding the lyapunov stability theory in interpretable neural networks for transient stability assessment,” *IEEE Transactions on Power Systems*, 2024.
 * C. Ren, H. Yu, **R. Yan**, et al., “Towards quantum federated learning,” *arXiv preprint arXiv:2306.09912*, 2023.
 * C. Ren, **R. Yan**, M. Xu, et al., “Qfdsa: A quantum-secured federated learning system for smart grid dynamic security assessment,” *IEEE Internet of Things Journal*, 2023.
 * C. Ren, H. Yu, **R. Yan**, et al., “Secfedsa: A secure differential privacy-based federated learning approach for smart cyber-physical grid stability assessment,” *IEEE Internet of Things Journal*, 2023.
