@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <h3 style="background-color:#f0f8ff; padding:20px; border-radius:15px; text-align:center;">
-Supervision of Master of Science Thesis
+Supervision of Master of Science Thesis (Advisor)
 </h3>
 
 ### 2024-2025
