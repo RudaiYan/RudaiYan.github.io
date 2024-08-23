@@ -12,7 +12,7 @@ In Progress
 
 ### 2021 - Present
 ![lab](./spnl.png)
-* **Risk based Power System Asset Investment and Planning Optimization, Singapore**
+* **Risk based Power System Asset Investment and Planning Optimization [Founded by SP Group & EMA, Singapore]**
   * Started from 2021
   * Worked as the Research Fellow to design and develop Singapore’s First Digital Twin for National Power Grid: [https://www.spgroup.com.sg/about-us/media-resources/news-and-media-releases/Digital-Twin-for-National-Power-Grid](https://www.spgroup.com.sg/about-us/media-resources/news-and-media-releases/Digital-Twin-for-National-Power-Grid)
 
@@ -28,11 +28,11 @@ Closed Projects
 ### 2023
 <img src="/images/nrf.jpeg" alt="NRF" height="50px">
 
-* **Multiple Micro-Grid Operation Framework, Singapore**
+* **Multiple Micro-Grid Operation Framework [Founded by NRF & EMA, Singapore]**
   * Designed a deep reinforcement learning based microgrid bidding optimization method in the context of real electricity market.
 
 ### 2021
 <img src="/images/jtc.png" alt="JTC" height="60px">
 
-* **Study of Reliability of Power Systems for Underground Cavern Facilities, Singapore**
+* **Study of Reliability of Power Systems for Underground Cavern Facilities [Founded by JTC, Singapore]**
   * Worked as the Researcher to design and develop the Real-Time Remote Condition Monitoring System for Underground Substation.
