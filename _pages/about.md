@@ -23,9 +23,14 @@ Dr. Yan received his B.E. degrees from <span style="color:red">Xi'an Jiaotong Un
 * IEEE Transactions on Power Systems
 * IEEE Transactions on Smart Grid
 * IEEE Transactions on Sustainable Energy
+* IEEE PES Letters
 * IEEE Transactions on Power Delivery
 * IEEE Transactions on Industrial Informatics
-* IEEE PES Letters
+* IEEE Open Access Journal of Power and Energy
 * IET Generation, Transmission & Distribution
 * IET Renewable Power Generation
+* IET Energy Conversion and Economics
 * International Journal of Electical Power & Energy Systems
+* Applied Energy
+* Journal of Modern Power Systems and Clean Energy
+* CSEE Journal of Power and Energy Systems
